@@ -1,3 +1,5 @@
 #include<stdio.h>
+//prints "Hello World!"
 int main()
-{printf("HELLO WORLD!\n");}
+{printf("HELLO WORLD!\n");
+return 0;}
