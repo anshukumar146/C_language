@@ -15,4 +15,5 @@ a = a - b ;                 //Now,a will become the difference of changed value 
 
 printf("After swapping:\na :%d \t b :%d",a,b);
 
+return 0;
 }
