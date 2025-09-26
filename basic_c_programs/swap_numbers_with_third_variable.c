@@ -15,4 +15,5 @@ b = tempo ;                 // b will sore the value of tempo, which is a at fir
 
 printf("After swapping:\na :%d \t b :%d",a,b);
 
+return 0;
 }
