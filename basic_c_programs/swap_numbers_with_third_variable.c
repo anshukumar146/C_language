@@ -4,9 +4,9 @@
 int main()
 {
     int a , b , tempo;
-printf("Entre a:\n");
+printf("Entre first number 'a':\n");            //taking inputs from user.
 scanf(" %d",&a);
-printf("Enter b:\n");
+printf("Enter second number ''b:\n");
 scanf(" %d",&b);
 
 tempo = a ;                 // temporary file named tempo will store the value of a.
