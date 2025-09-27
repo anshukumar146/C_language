@@ -8,9 +8,9 @@ scanf(" %d",&a);
 printf("Enter second number 'b':\n");
 scanf(" %d",&b);
 
-a = a + b ;                 //a vnow have the sum of both variable.
-b = a - b ;                 //b value will be swapped.   
-a = a - b ;                 //Now,a will become the difference of changed value of (a-b),which is swapped.
+a = a + b ;                 //a now have the sum of both variable.
+b = a - b ;                 //b value is be swapped.   
+a = a - b ;                 //Now,a will become the difference of changed value of (a-b),which is swapped value.
 
 
 printf("After swapping:\na :%d \t b :%d",a,b);
