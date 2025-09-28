@@ -1,32 +1,31 @@
-// Program to check if a number is Armstrong upto (3-digit)
+//   PROGRAM TO PRINT right angled triangle with stars(*) using for loop. 
 
-//Armstrong number are those numbers whose sum of cubes of its digit is equall to number itself.
 
 #include <stdio.h>
-
-int main()                                                    
+int main()
 {
-    int num, original, remainder, result = 0;
+    int i , j , a ;
 
-    printf("Enter a number: ");
-    scanf("%d", &num);
+printf ("Enter the number of rows : ");
+scanf("%d ",&a);
 
-    original = num;                                              // store original number
+for(i = 1; i <= a; i++)          // outer loop for rows.
+{
+    for(j = 1; j <= i; j++)      // inner loop for number of stars in each row.
 
-    while (num != 0)
-     {
-        remainder = num % 10;                                    // extract last digit
+    { 
 
-        result += remainder * remainder * remainder;             // cube and add
+    printf("* ");               // print '*'
 
-        num /= 10;                                               // remove last digit
     }
 
-    if (original == result)
-        printf("%d is an Armstrong number.\n", original);
+     printf("\n");              // changes line.
 
-    else
-        printf("%d is NOT an Armstrong number.\n", original);
+}
+   
 
     return 0;
 }
+
+
+
