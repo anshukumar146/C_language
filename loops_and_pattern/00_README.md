@@ -17,5 +17,6 @@ ________________________________________
 ## ⚙ How to Run
 bash
 gcc filename.c -o output
+
 ./output
 
