@@ -1,76 +1,39 @@
-\# Basic C Programs
+# Basic C Programs
 
-
-
-This folder contains simple and beginner-friendly C programs and some with if-else and switch.  
+This folder contains simple and beginner-friendly C programs and some with if-else and switch.
 
 Each program demonstrates a fundamental concept in C.
 
+## 📂 Programs
 
+- *00_hello_world.c* → Print "Hello, World!" .
 
----
+- *02_swap_numbers_without_third_variable.c* → Swap two numbers without a third variable.
 
+- *03_swap_numbers_with_third_variable.c* → Swap two numbers using a third variable.
 
+- *04_swap_numbers_using_XOR.c* → swap two numbers using XOR.
 
-\## 📂 Programs
+- *05_largest_of_number.c* → Find the largest number among 3 number using if, else-if and else.
 
+- *06_ck_even_odd.c* → check for even or odd.
 
+- *07_factorial.c* → Find factorial of a number using loop.
 
-\- \*00\_hello\_world.c\* → Print "Hello, World!" .
+ 
 
+- *08_reverse_number.c* → Reverse the digits of a number
 
+- *09_palindrome_number.c* → Check if a number is palindrome
 
-\- \*02\_swap\_numbers\_without\_third\_variable.c\* → Swap two numbers without a third variable. 
+ 
 
+- *10_fibonacci_sequence.c* → check for Fibonacci sequence
 
+- *11_calculator_using_switch.c* → Do simple operation (addition , subtraction , multiplication and division ) between two number.
 
-\- \*03\_swap\_numbers\_with\_third\_variable.c\* →  Swap two numbers using a third variable.
-
-
-
-\- \*04\_swap\_numbers\_using\_XOR.c\* → swap two numbers using XOR.
-
-
-
-\- \*05\_largest\_of\_number.c\* → Find the largest number among 3 number using if, else-if and else.
-
-
-
-\- \*06\_ck\_even\_odd.c\* → check for even or odd.
-
-
-
-\- \*factorial.c\* → Find factorial of a number using loop.
-
-&nbsp;
-
-\- \*reverse\_number.c\* → Reverse the digits of a number  
-
-
-
-\- \*palindrome\_number.c\* → Check if a number is palindrome 
-
-&nbsp;
-
-\- \*10\_fibonacci\_sequence.c\* → check for Fibonacci sequence
-
-
-
-\- \*11\_calculator\_using\_switch.c\* → Do simple operation (addition , subtraction , multiplication and division ) between two number. 
-
-
-
-
-
----
-
-
-
-\## ⚙ How to Run
-
-```bash
+## ⚙ How to Run
 
 gcc filename.c -o output
 
 ./output
-
