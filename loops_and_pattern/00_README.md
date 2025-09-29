@@ -12,7 +12,7 @@ ________________________________________
 - **05_reverse_right_angle_triangle.c** → Print inverted triangle star pattern
 - **06_pyramid.c** → Print pyramid star pattern
 ## program
-- **armstrong_number.c** → Check Armstrong number
+- **07_armstrong_number.c** → Check Armstrong number
 ________________________________________
 ## ⚙ How to Run
 bash
