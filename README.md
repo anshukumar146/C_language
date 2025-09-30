@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
 <h1 align="center">Hi 👋, I'm Anshu kumar.</h1>
 <h3 align="center"># C Language Programs 🚀 This repository contains my practice codes for learning *C programming*. Programs are organized into folders based on topic, starting from basics and moving towards loops and patterns. ## 📂 Folder Structure → basic_c_programs →loops_and_pattern</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?q=animated%20arduino%20gif&imgurl=https%3A%2F%2Fcdn.dribbble.com%2Fuserupload%2F42078831%2Ffile%2Foriginal-ee6cf0a736f1a6da752ee8a8bca45a0b.gif&imgrefurl=https%3A%2F%2Fdribbble.com%2Fshots%2F5912465-Electronic-cards-Arduino-UNO&docid=IdQSXikGcIJrDM&tbnid=gVgOyEYGhhFOhM&vet=12ahUKEwjn0feZmYGQAxV4a_UHHT47JDUQM3oECBcQAA..i&w=800&h=600&hcb=2&ved=2ahUKEwjn0feZmYGQAxV4a_UHHT47JDUQM3oECBcQAA">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshukumar146&label=Profile%20views&color=0e75b6&style=flat" alt="anshukumar146" /> </p>
 
