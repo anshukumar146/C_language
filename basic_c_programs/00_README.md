@@ -6,7 +6,7 @@ Each program demonstrates a fundamental concept in C.
 
 ## 📂 Programs
 
-- *[Hello_World_Program](./01_hello_world.c)* → Print "Hello, World!" .
+- *[01_Hello_World_Program](./01_hello_world.c)* → Print "Hello, World!" .
 
 - *[02_swap_numbers_without_third_variable](./02_swap_numbers_without_third_variable.c)* → Swap two numbers without a third variable.
 
