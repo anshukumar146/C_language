@@ -13,13 +13,16 @@ for(int i=0; i<3; i++)
 {for(int j=0; j<3; j++)
 scanf("%d",&matrix2[i][j]);
 }
-for(int i=0; i<3; i++)                              //Multiplication of matrix.
-{for(int j=0; j<3; j++){
-    int sum=0;
-    for(int k=0; k<3; k++)
-        {for(int l=0; l<3; l++)
-        sum=sum+matrix1[i][k]*matrix2[l][j];
-    matrix3[i][j]=sum;}}}
+for(int i=0; i<3; i++) {
+    for(int j=0; j<3; j++) {
+        int sum = 0;
+        for(int k=0; k<3; k++)                   // k moves across the row of matrix1 AND down the column of matrix2
+         {                       
+            sum += matrix1[i][k] * matrix2[k][j];
+         }
+        matrix3[i][j] = sum;
+    }
+}
   
 printf("Resultant matrix:\n");                      //prints the result
     for (int i = 0; i < 3; i++) {
