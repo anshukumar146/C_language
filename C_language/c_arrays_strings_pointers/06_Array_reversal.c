@@ -9,7 +9,7 @@ for(i=0; i<n;i++)
 {
     scanf("%d",&arr1[i]);
 }
-for(i=0; i<n/2; i++){                                   //sort the array using third temporary variable.
+for(i=0; i<n/2; i++){                                   //reverse the array using third temporary variable.
     int temp=arr1[i];
     arr1[i]=arr1[n-i-1];
     arr1[n-i-1]=temp;
