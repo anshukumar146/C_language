@@ -23,7 +23,7 @@ These help practice nested loops, iteration logic, and problem-solving.
 
 ## 🔢 Program
 
-- *[07_armstrong_number.c](./07_armstrong_number.c)* → Check Armstrong number  
+- *[07_Armstrong.c](./07_Armstrong.c)* → Check Armstrong number  
 
 ---
 
