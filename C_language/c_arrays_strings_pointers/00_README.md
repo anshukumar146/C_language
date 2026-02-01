@@ -24,7 +24,7 @@ Each program demonstrates a fundamental concept in C.
 
 - *[08_String_length.c](./08_String_length.c)* → Find the length of the string without including <string.h>.
 
-- *[09_String_reverse.c](./09_String_reverse.c)* → revese the string.
+- *[09_String_reverse.c](./09_String_reverse.c)* → reverse the string.
 
  
 
@@ -37,3 +37,4 @@ Each program demonstrates a fundamental concept in C.
 gcc filename.c -o output
 
 ./output
+
