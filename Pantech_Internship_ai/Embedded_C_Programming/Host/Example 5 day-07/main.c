@@ -10,7 +10,7 @@ int main(){
 
 	int a,b,c,d;
 	printf("Enter the value: ");
-	fflush(stdout);
+	fflush(stdout);				//flush the buffer created by printf.
 	scanf("%d",&a);
 	printf("Enter the value: ");
 	fflush(stdout);
