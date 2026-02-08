@@ -28,9 +28,10 @@ Each program demonstrates a fundamental concept in C.
 
  
 
-- *[ 10](./10)* → 
+- *[ 10_String_Palindrome.c](./10_String_Palindrome.c)* → 
 
-- *[11_](./11)* → 
+- *[11_Japanese_Vocab_search.c](./11_Japanese_Vocab_search.c)* →
+- *[12_Swap_number_using_pointer.c](./12_Swap_number_using_pointer.c)*→
 
 ## ⚙ How to Run
 
