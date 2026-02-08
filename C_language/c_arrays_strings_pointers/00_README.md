@@ -11,27 +11,23 @@ Each program demonstrates a fundamental concept in C.
 - *[02_array_addition_pointer.c](./02_array_addition_pointer.c)* → Do Addition of two array but using pointers.
 
 - *[03_Largest_Smallest_number_in_array.c](./03_Largest_Smallest_number_in_array.c)* → Finds the Largest/Smallest number in the array.
-
 - *[04_matrix_sum.c](./04_matrix_sum.c)* → Do Addition of all elements in the array.
-
-- *[05_matrix_multiplication.c](./05_matrix_multiplication.c)* → Do Multiplication of two array.
-
+- *[05_matrix_multiplication.c](./05_matrix_multiplication.c)* → Do Multiplication of two array. 
 - *[06_Array_reversal.c](./06_Array_reversal.c)* → Reverse the array.
-
+  
 - *[07_Bubble_sort.c](./07_Bubble_sort.c)* → Sort the array using Bubble sort method.
-
- 
-
+  
 - *[08_String_length.c](./08_String_length.c)* → Find the length of the string without including <string.h>.
-
+ 
 - *[09_String_reverse.c](./09_String_reverse.c)* → reverse the string.
-- 
-- *[ 10_String_Palindrome.c](./10_String_Palindrome.c)* → Check for palindrome in a string. 
+ 
+- *[ 10_String_Palindrome.c](./10_String_Palindrome.c)* → Check for palindrome in a string.
+  
 - *[11_Japanese_Vocab_search.c](./11_Japanese_Vocab_search.c)* →Search for words from Minna no Nihongo Lessons 1 and 2, and show if they are present in my vocabulary list.
-  <h2>Here some example words.</h2>
-- <h3>"watashi","anata","sensei","kyoushi","gakusei","kaishain","shain","ginkouin","isha","kenyuusha","enjinia","daigaku","byouin","denki"</h3>   
-- 
-- *[12_Swap_number_using_pointer.c](./12_Swap_number_using_pointer.c)*→Swaps two numbers using pointer with third temporary variable,
+  <h3><u>Here some example words.</u></h3>
+              <h3>watashi,anata,sensei,kyoushi,gakusei,kaishain,shain,ginkouin,isha,kenyuusha,enjinia,daigaku,byouin,denki</h3>   
+ 
+-  [12_Swap_number_using_pointer.c](./12_Swap_number_using_pointer.c)→Swaps two numbers using pointer with third temporary variable,
 
 ## ⚙ How to Run
 
