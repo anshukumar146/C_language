@@ -1,0 +1,30 @@
+/*
+ * main2.c
+ *
+ *  Created on: 13-Feb-2026
+ *      Author: anshu
+ */
+
+
+#include <stdio.h>
+#include <stdint.h>
+
+
+int main()
+{
+	int Data[3][3] ={{1,2,3},{4,5,6},{7,8,9}};
+
+	 Data[0][0]=100;		//changing data.
+
+	for(int i=0;i <3 ; i++)
+	{
+		for (int j=0;j<3;j++)
+		{
+			printf("%d ",Data[i][j]);
+		}
+		printf("\n");
+
+	}
+
+}
+
