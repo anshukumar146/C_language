@@ -31,7 +31,7 @@ Each program demonstrates a fundamental concept in C.
 - *[10_fibonacci_sequence](./10_fibonacci_sequence.c)* → check for Fibonacci sequence
 
 - *[11_calculator_using_switch](./11_calculator_using_switch.c)* → Do simple operation (addition , subtraction , multiplication and division ) between two number.
-
+- *[12_geometry_calculator.c](./12_geometry_calculator.c)* → Ask for choice then calculate geometry of shape.
 ## ⚙ How to Run
 
 gcc filename.c -o output
