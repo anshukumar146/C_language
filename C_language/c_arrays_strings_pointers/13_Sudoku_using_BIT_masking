@@ -9,7 +9,7 @@
 
 // Bitmasks: Each integer stores 9 bits. If bit 'n' is 1, number 'n' is used.
 int row[N], col[N], box[N];
-int initialized = 0; // Better naming than 'seted'
+int initialized = 0; 
 
 // Maps 2D coordinates (i, j) to a 1D box index (0-8)
 int getBox(int i, int j) { 
