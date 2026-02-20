@@ -27,7 +27,8 @@ Each program demonstrates a fundamental concept in C.
   <h3><u>Here some example words.</u></h3>
               <h3>watashi,anata,sensei,kyoushi,gakusei,kaishain,shain,ginkouin,isha,kenyuusha,enjinia,daigaku,byouin,denki</h3>   
  
--  [12_Swap_number_using_pointer.c](./12_Swap_number_using_pointer.c)→Swaps two numbers using pointer with third temporary variable,
+-  [12_Swap_number_using_pointer.c](./12_Swap_number_using_pointer.c)→Swaps two numbers using pointer with third temporary variable.
+-  - *[14_sum_of_row_and_column_of_2D_array.c](./14_sum_of_row_and_column_of_2D_array.c)* → Find the sum of rows and columns of 2D array.
 
 ## ⚙ How to Run
 
